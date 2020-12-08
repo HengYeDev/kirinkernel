@@ -1,4 +1,9 @@
-        Linux kernel release 4.x <http://kernel.org/>
+# KERNEL MOVED TO https://gitlab.com/ubports/community-ports/android9/sony-xperia-10/kernel-sony-kirin 
+# THIS REPO IS DEPRECATED AND TOTALLY BROKEN
+# DO NOT USE
+# - HENG
+
+     Linux kernel release 4.x <http://kernel.org/>
 
 These are the release notes for Linux version 4.  Read them carefully,
 as they tell you what this is all about, explain how to install the
